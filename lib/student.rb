@@ -6,7 +6,6 @@ def hello
 end
 
 def raise_hand
-  puts 
-    
-end
+  puts "Pick me!"
+    end
 end
